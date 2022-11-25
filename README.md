@@ -1,0 +1,1 @@
+This is a short game running on the console. The player will be given a few options to choose from, and they will try to escape the jungle without dying.
