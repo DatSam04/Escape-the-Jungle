@@ -1,1 +1,2 @@
 This is a short game running on the console. The player will be given a few options to choose from, and they will try to escape the jungle without dying. Player will be given three options for each scene, and they need to pass 5 scene before escaping from the jungle, otherwise, they will be killed by the wild animals in the jungle. Choose the option wisely or you will get killed.
+Note: Go into the escape-the-jungle folder to run the game.
